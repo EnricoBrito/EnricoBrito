@@ -18,7 +18,7 @@ Estou aberto para oportunidades de estágio — [Envie um Email](mailto:enricode
 
 ---
 
-### ⚙️ Meus Stacks
+### ⚙️ Stacks
 
 <img 
     align="left" 
