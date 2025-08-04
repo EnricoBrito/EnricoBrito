@@ -3,7 +3,7 @@
 **`Desenvolvedor Back-End & Front-End`**
 
 Me chamo Enrico de Almeida Brito, tenho 18 anos e sou de São Paulo. Concluí o ensino médio técnico em Informática na Universidade Cruzeiro do Sul em 2024. Atualmente curso Engenharia de Software na FIAP. Sou apaixonado por técnologia desde criança e sempre busco aprender e evoluir. Aqui no GitHub compartilho meus estudos e projetos pessoais.
-Estou aberto para oportunidades de estágio — [Me envie um email](mailto:enricodealmeidabrito@gmail.com) 
+Estou aberto para oportunidades de estágio — [Envie um Email](mailto:enricodealmeidabrito@gmail.com) 
 
 
 <p align="left">
@@ -11,7 +11,7 @@ Estou aberto para oportunidades de estágio — [Me envie um email](mailto:enric
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/EnricoBrito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
