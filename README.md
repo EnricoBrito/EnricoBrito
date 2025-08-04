@@ -97,7 +97,7 @@ Estou aberto para oportunidades de estágio — [Envie um Email](mailto:enricode
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📈 Insights
 
 <p>
   <img 
