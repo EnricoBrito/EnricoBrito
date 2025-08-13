@@ -6,15 +6,6 @@ Me chamo Enrico de Almeida Brito, tenho 18 anos e sou de São Paulo. Concluí o 
 Estou aberto para oportunidades de estágio — [Envie um Email](mailto:enricodealmeidabrito@gmail.com) 
 
 
-<p align="left">
-    <a href="[https://github.com/EnricoBrito?tab=followers]">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/EnricoBrito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
