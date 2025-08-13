@@ -31,8 +31,8 @@ Estou aberto para oportunidades de estágio — [Envie um Email](mailto:enricode
     align="left" 
     alt="Java" 
     title="Java"
-    width="37px" 
-    style="padding-right: 10px;" 
+    width="30px" 
+    style="padding-right: 13px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
 <img 
