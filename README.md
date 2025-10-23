@@ -4,7 +4,7 @@ Me chamo Enrico de Almeida Brito, tenho 18 anos e sou de São Paulo. Concluí o 
 
 ---
 
-### 📫 Contato
+### **📫 Contato...**
 - **Telefone:** +55 11 94254-4758  
 - **Email:** enricodealmeidabrito@gmail.com  
 - **LinkedIn:** [Enrico Almeida](https://www.linkedin.com/in/enrico-almeida-a47400314/)  
@@ -12,7 +12,7 @@ Me chamo Enrico de Almeida Brito, tenho 18 anos e sou de São Paulo. Concluí o 
 
 ---
 
-### ⚙️ Tecnologias & Ferramentas
+### **⚙️ Tecnologias & Ferramentas...**
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -27,7 +27,7 @@ Me chamo Enrico de Almeida Brito, tenho 18 anos e sou de São Paulo. Concluí o 
 
 ---
 
-### 📈 GitHub Insights
+### **📈 GitHub Insights...**
 <p>
 <img align="left" alt="GitHub Stats" height="160" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=EnricoBrito&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 <img align="left" alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoBrito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
@@ -35,7 +35,7 @@ Me chamo Enrico de Almeida Brito, tenho 18 anos e sou de São Paulo. Concluí o 
 
 ---
 
-### 🎓 Cursos e Certificações
+### **🎓 Cursos e Certificações...**
 - **Nano Course FIAP:** Python  
 - **Curso Oracle FIAP:** Banco de Dados  
 - **Alura:** Python (avançado)  
@@ -44,13 +44,13 @@ Me chamo Enrico de Almeida Brito, tenho 18 anos e sou de São Paulo. Concluí o 
 
 ---
 
-### 💻 Principais Projetos
+### **💻 Principais Projetos...**
 - **Optivio:** Ferramenta SaaS de automação, desenvolvida para atender às dores e necessidades específicas dos clientes, integrando processos administrativos e hospitalares para aumentar eficiência.  
 - **Nexo:** Plataforma de criação de sites simples e funcionais para pequenos negócios e freelancers, com foco em produtividade e experiência do usuário (UX/UI).  
 
 ---
 
-### 🛠 Principais Competências
+### **🛠 Principais Competências...**
 - **Automação e Integração:** n8n, APIs  
 - **Desenvolvimento Web:** React.js, HTML, CSS, JavaScript  
 - **Banco de Dados:** SQL, Oracle  
