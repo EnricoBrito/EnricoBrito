@@ -4,16 +4,20 @@ Me chamo Enrico de Almeida Brito, tenho 18 anos e sou de São Paulo. Concluí o 
 
 ---
 
-### **💻 Principais Projetos...**
+### **💻 Principais Projetos**
 - **Optivio:** Ferramenta SaaS de automação, desenvolvida para atender às dores e necessidades específicas dos clientes, integrando processos administrativos e hospitalares para aumentar eficiência.  
 
 - **Nexo:** Plataforma de criação de sites simples e funcionais para pequenos negócios e freelancers, com foco em produtividade e experiência do usuário (UX/UI).  
 
 ---
 
-### **📈 GitHub Insights...**
+### **🌐 Veja meu Portfólio**
+[Visitar Portfólio](https://meuportifolioaleatorio404.com)  
+
+---
+
+### **📈 GitHub Insights**
 <p>
 <img align="left" alt="GitHub Stats" height="160" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=EnricoBrito&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-<br/>
-<img align="left" alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoBrito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<img align="left" alt="Top Languages" height="210" style="padding-left: 10px; margin-top: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoBrito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
