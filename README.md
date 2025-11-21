@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Enrico Brito  **`Desenvolvedor Back-End & Front-End`**
 
-Me chamo Enrico de Almeida Brito, tenho 18 anos e sou de São Paulo. Concluí o ensino médio técnico em Informática na Universidade Cruzeiro do Sul em 2024. Atualmente curso Engenharia de Software na FIAP. Sou apaixonado por tecnologia desde criança e sempre busco aprender e evoluir. Aqui no GitHub compartilho meus estudos e projetos pessoais. Estou aberto para oportunidades — [Envie um Email](mailto:enricodealmeidabrito@gmail.com)
+Me chamo Enrico de Almeida Brito, tenho 18 anos e sou de São Paulo. Concluí o ensino médio técnico em Informática na Universidade Cruzeiro do Sul em 2024. Atualmente curso Engenharia da Computação. Sou apaixonado por tecnologia desde criança e sempre busco aprender e evoluir. Aqui no GitHub compartilho meus estudos e projetos pessoais. Estou aberto para oportunidades — [Envie um Email](mailto:enricodealmeidabrito@gmail.com)
 
 ---
 
@@ -12,7 +12,7 @@ Me chamo Enrico de Almeida Brito, tenho 18 anos e sou de São Paulo. Concluí o 
 ---
 
 ### **🌐 Veja meu Portfólio**
-[Visitar Portfólio](https://meuportifolioaleatorio404.com)  
+[Visitar Portfólio](https://meuportifolio.com)  
 
 ---
 
