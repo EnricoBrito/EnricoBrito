@@ -5,14 +5,14 @@ Me chamo Enrico de Almeida Brito, tenho 18 anos e sou de São Paulo. Concluí o 
 ---
 
 ### **💻 Principais Projetos**
-- **Optivio:** Ferramenta SaaS de automação, desenvolvida para atender às dores e necessidades específicas dos clientes, integrando processos administrativos e hospitalares para aumentar eficiência.  
+- **Optivio:** Ferramenta SaaS de automação, desenvolvida para atender às dores e necessidades específicas dos clientes.  
 
 - **Nexo:** Plataforma de criação de sites simples e funcionais para pequenos negócios e freelancers, com foco em produtividade e experiência do usuário (UX/UI).  
 
 ---
 
 ### **🌐 Veja meu Portfólio**
-[Visitar Portfólio](https://meuportifolio.com)  
+[Visitar Portfólio](https://enricoweb.vercel.app/)  
 
 ---
 
