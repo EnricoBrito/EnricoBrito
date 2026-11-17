@@ -12,8 +12,4 @@ Me chamo Enrico de Almeida Brito, sou de São Paulo. Concluí o ensino médio t�
 
 ---
 
-### **📈 GitHub Insights**
-<p>
-<img align="left" alt="GitHub Stats" height="160" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=EnricoBrito&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-<img align="left" alt="Top Languages" height="210" style="padding-left: 10px; margin-top: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoBrito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
+
